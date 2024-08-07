@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "postgres",
-  PASSWORD: "123",
-  DB: "testdb",
+  HOST: "dpg-cqpr2g3qf0us73aodsm0-a",
+  USER: "postgresql_azura_user",
+  PASSWORD: "mGQ8D9RR3AFX3fex41i5Qe2MSUfk6Jrh",
+  DB: "postgresql_azura",
   dialect: "postgres",
   pool: {
     max: 5,
